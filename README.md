@@ -1,0 +1,2 @@
+# Django-QRcode-Library
+Library
